@@ -1,5 +1,24 @@
 # AI 시대의 산업 구조 변화: 2034년 대한민국 경제 전망과 정책 제안
 
+> 2024 statistical-data analysis project on how AI adoption may affect Korea's industrial structure and workforce demand.
+
+## Project Snapshot
+
+- **Context:** Statistical Data Utilization project / 통계데이터 활용 분석 프로젝트
+- **Question:** How could AI adoption reshape industry-level sales, employment, and workforce composition in Korea?
+- **My focus:** data preprocessing, exploratory analysis, forecasting structure, and policy-oriented interpretation
+- **Artifacts:** analysis notebooks, forecast outputs, and final report materials
+- **Note:** This is an educational/project archive from 2024. The forecasts should be read as scenario-based analysis, not as current economic predictions.
+
+## What this repository shows
+
+This repository is useful as evidence of:
+
+1. framing an industrial/economic question with data,
+2. handling public statistical datasets,
+3. connecting analysis results to policy implications,
+4. documenting limitations and future improvement points.
+
 ## 목차
 1. [프로젝트 개요](#프로젝트-개요)
 2. [연구 배경](#연구-배경)
